@@ -204,8 +204,3 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
-<<<<<<< HEAD
-__marimo__/
-=======
-__marimo__/
->>>>>>> d7e1a4ece700bb795150e1cd2eb0482151c2e06e
